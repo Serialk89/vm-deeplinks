@@ -1,12 +1,14 @@
-{
-  "relation": [
-    "delegate_permission/common.handle_all_urls"
-  ],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "cl.dalechek.app",
-    "sha256_cert_fingerprints": [
-      "30:05:79:7C:28:D1:DE:20:C6:BF:A5:FA:AC:97:79:D3:87:11:D7:E9:5C:54:DE:C0:8B:E0:FA:D8:2A:3E:9A:36"
-    ]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "cl.dalechek.app",
+      "sha256_cert_fingerprints": [
+        "30:05:79:7C:28:D1:DE:20:C6:BF:A5:FA:AC:97:79:D3:87:11:D7:E9:5C:54:DE:C0:8B:E0:FA:D8:2A:3E:9A:36"
+      ]
+    }
   }
-}
+]
